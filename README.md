@@ -1,4 +1,4 @@
 # Payloads
 
-Password- infected, payload for medusa
+Password- infected, payload for medusa and empire
 
