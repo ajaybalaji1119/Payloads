@@ -1,0 +1,2 @@
+windows/encrypted_shell/reverse_tcp                                
+windows/encrypted_shell_reverse_tcp
